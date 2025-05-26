@@ -2,11 +2,11 @@
 
 This project investigates the exponential discharge behavior of capacitors in real circuits using Arduino and Python.
 
-## 🔍 Objective
+##  Objective
 
 To compare real capacitor discharge data (with and without an LED) against the theoretical RC exponential decay model.
 
-## 🧪 What I Did
+##  What I Did
 
 - Built a physical RC circuit using a 470μF capacitor and 220Ω resistor.
 - Logged real-time voltage data using Arduino.
@@ -16,7 +16,7 @@ To compare real capacitor discharge data (with and without an LED) against the t
 - Analyzed and visualized the data using Python (Pandas, Matplotlib).
 - Verified the match between theory and real-world data.
 
-## 🧠 Key Concepts
+##  Key Concepts
 
 - RC Time Constant: τ = R × C  
 - Exponential decay: V(t) = V₀ * e(-t / τ)  
