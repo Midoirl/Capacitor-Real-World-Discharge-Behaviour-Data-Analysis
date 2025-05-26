@@ -30,7 +30,7 @@ You can explore the original LED-based circuit in Tinkercad here:
 
 This shows the LED interfering with the capacitor’s discharge, visually confirming the distortion seen in the data.
 
-## 📓 View the Notebook in Google Colab
+##  View the Notebook in Google Colab
 
 👉 [Open in Google Colab](https://colab.research.google.com/drive/1gceJznZp-lVOAX7cc3AA7nvOOjstvAdV?usp=sharing)
 
@@ -42,6 +42,6 @@ This shows the LED interfering with the capacitor’s discharge, visually confir
 - Matplotlib, Pandas
 - Tinkercad
 
-## 👨‍🔬 Author
+##  Author
 
 **Mahmod Kirresh** 
